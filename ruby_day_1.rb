@@ -7,4 +7,4 @@
 # return "Yay Ruby!"
 # return "I Love Koding!"
 
-puts "hi".downcase
+puts "hi".reverse
