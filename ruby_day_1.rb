@@ -6,3 +6,5 @@ print "I Love Koding!"
 
 return "Yay Ruby!"
 return "I Love Koding!"
+
+puts "hi".upcase
