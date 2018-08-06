@@ -7,4 +7,4 @@
 # return "Yay Ruby!"
 # return "I Love Koding!"
 
-puts "hi".capitalize
+puts "hi".validates_length_of
