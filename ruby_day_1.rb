@@ -1,2 +1,2 @@
-# puts "Yay Ruby!"
-# puts "I love Koding!"
+puts "Yay Ruby!"
+puts "I love Koding!"
